@@ -1,0 +1,22 @@
+* {
+    font-size: 30px;
+    text-align: center;
+    background: rgb(203, 207, 199);
+
+}
+
+
+.card-body {
+ background: rgb(216, 209, 209);
+
+}
+#text {
+    background-color: cornsilk;
+}
+
+#author {
+    background-color: cornsilk;
+}
+.card {
+    margin:250px auto;
+}
